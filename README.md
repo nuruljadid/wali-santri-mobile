@@ -1,6 +1,6 @@
-# wali-santri-app
+# wali-santri-mobile
 
-Frontend Mobile untuk Aplikasi bagi Wali Santri
+Frontend Mobile (react native) untuk Aplikasi bagi Wali Santri
 
 ## Memulai
 ```bash
